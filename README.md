@@ -29,7 +29,7 @@
 
 [![Languages](https://skillicons.dev/icons?i=js,ts,cpp,py)](https://skillicons.dev)
 
-[![Framework & Tools](https://skillicons.dev/icons?i=nextjs,react,nodejs,expressjs,tailwind,git,github,shadcn,firebase,mongodb,figma,vercel,vscode)](https://skillicons.dev)
+[![Framework & Tools](https://skillicons.dev/icons?i=nextjs,react,nodejs,expressjs,tailwind,git,github,firebase,mongodb,figma,vercel,vscode)](https://skillicons.dev)
 
 <h2 align="left">📉 Streak Stats</h2>
 
