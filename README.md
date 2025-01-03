@@ -9,7 +9,7 @@
 
 <!-- - 🔭 I’m currently working on **A Pos(point of sale) software** -->
 
-- 🌱 I’m currently learning **Nestjs**
+- 🌱 I’m currently learning **Flutter** and **Nestjs**
 
 - 👀 I’m interested in **Software Development**
 
