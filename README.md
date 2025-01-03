@@ -13,7 +13,7 @@
 
 - 👀 I’m interested in **Software Development**
 
-- 💬 Ask me about **React JS & Next JS**
+- 💬 Ask me about **Flutter & Next JS**
 
 - 📫 How to reach me **masud20.bup@gmail.com**
 - 🌐 My Portfolio [https://masud-portfolio.vercel.app/](https://masud-portfolio.vercel.app/)
