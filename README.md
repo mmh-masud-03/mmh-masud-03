@@ -33,7 +33,7 @@
 
 <h2 align="left">📉 Streak Stats</h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mmh-masud-03&theme=whatsapp-dark2&border_radius=7&card_width=700)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mmh-masud-03)](https://git.io/streak-stats)
 
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mmh-masud-03&theme=github_dark)
 
