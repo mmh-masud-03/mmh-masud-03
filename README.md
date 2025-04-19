@@ -27,7 +27,7 @@
 
 <h2 align="left">💻 Languages and Tools:</h2>
 
-[![Languages](https://skillicons.dev/icons?i=js,dart,ts,cpp,py,java,kt)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,dart,ts,cpp,py,java,kotlin)](https://skillicons.dev)
 
 [![Framework & Tools](https://skillicons.dev/icons?i=nextjs,react,nestjs,flutter,nodejs,expressjs,tailwind,git,github,firebase,mongodb,figma,vercel,androidstudio,vscode)](https://skillicons.dev)
 
