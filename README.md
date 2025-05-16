@@ -7,7 +7,7 @@
 
 <h2 align="left">👩‍💻 About me:</h2>
 
-<!-- - 🔭 I’m currently working on **A Pos(point of sale) software** -->
+<!-- - 🔭 I’m currently working on **Fintech softwares** -->
 
 - 🌱 I’m currently learning **Flutter** and **Nestjs**
 
