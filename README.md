@@ -142,7 +142,7 @@
 
 <div align="center">
 
-![Snake animation](https://github.com/mmh-masud-03/mmh-masud-03/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/masud-io/masud-io/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -154,7 +154,7 @@
 
 **Thanks for stopping by! Let's build something amazing together! 🚀**
 
-![](https://komarev.com/ghpvc/?username=mmh-masud-03&color=brightgreen&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/mmh-masud-03?style=social)
+![](https://komarev.com/ghpvc/?username=masud-io&color=brightgreen&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/masud-io?style=social)
 
 </div>
