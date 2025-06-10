@@ -61,25 +61,25 @@
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmh-masud-03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmh-masud-03&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=masud-io&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masud-io&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mmh-masud-03&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=masud-io&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 <details>
 <summary>📈 More GitHub Stats</summary>
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mmh-masud-03&theme=tokyonight)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masud-io&theme=tokyonight)
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmh-masud-03&theme=tokyonight" alt="Stats" width="350"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mmh-masud-03&theme=tokyonight&utcOffset=6" alt="Time" width="350"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=masud-io&theme=tokyonight" alt="Stats" width="350"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=masud-io&theme=tokyonight&utcOffset=6" alt="Time" width="350"/>
 </div>
 
 </details>
@@ -90,7 +90,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mmh-masud-03&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=masud-io&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
