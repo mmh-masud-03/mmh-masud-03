@@ -2,7 +2,7 @@
   
 # 👋 Welcome to My Digital Universe!
 
-### I'm **Masud** - Full-Stack Developer & Mobile App Architect
+### I'm **Masud** - Full-Stack Developer & Mobile App Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
 
@@ -17,7 +17,7 @@
 - 🔭 **Currently Building**: Scalable fintech solutions and cross-platform applications
 - 🌱 **Learning Journey**: Advanced Flutter animations, Microservices with NestJS
 - 💡 **Passionate About**: Creating seamless user experiences across web and mobile
-- 🎯 **2024 Goals**: Contribute to 10+ open source projects, Master system design
+- 🎯 **2025 Goals**: Contribute to 10+ open source projects, Master system design
 - ⚡ **Fun Fact**: I debug with coffee and solve problems while walking!
 
 <br clear="right"/>
