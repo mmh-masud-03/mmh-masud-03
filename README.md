@@ -2,7 +2,7 @@
   
 # 👋 Welcome to My Digital Universe!
 
-### I'm **Masud** - Full-Stack Developer & Mobile App Developer
+### I'm **Masud** - Full-Stack Mobile App Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
 
